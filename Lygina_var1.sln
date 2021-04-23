@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lygina_var1", "Lygina_var1\Lygina_var1.csproj", "{A9FC63A3-F029-44C7-A4FE-F3C998982F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FC63A3-F029-44C7-A4FE-F3C998982F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FC63A3-F029-44C7-A4FE-F3C998982F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FC63A3-F029-44C7-A4FE-F3C998982F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FC63A3-F029-44C7-A4FE-F3C998982F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C75F91-59C9-4BB3-BA30-6485ED373743}
+	EndGlobalSection
+EndGlobal
